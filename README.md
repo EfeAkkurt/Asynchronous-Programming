@@ -23,4 +23,4 @@ service.js: getData(userId) fonksiyonu, verilen userId ile kullanıcı bilgileri
 
 app.js: getData(1) çağrısı ile kullanıcı ve post verilerini getirip ekrana yazdırır.
 
-# Not: JSONPlaceholder sahte API'si kullanıldığı için gerçek veri içermez. Daha fazla bilgi için JSONPlaceholder sitesini ziyaret edebilirsiniz.
+Not: JSONPlaceholder sahte API'si kullanıldığı için gerçek veri içermez. Daha fazla bilgi için JSONPlaceholder sitesini ziyaret edebilirsiniz.
